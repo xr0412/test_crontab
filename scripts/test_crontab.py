@@ -1,4 +1,4 @@
 class Test001:
 
-    def test_crontab(self):
+    def test_001(self):
         assert True
